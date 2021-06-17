@@ -22,19 +22,19 @@ Save The Web Project 所使用的工具列表
 
 ### 域名
 
-| 工具名                                       | 简介                          |
-| -------------------------------------------- | ----------------------------- |
-| [Telegram@Whois_Bot](https://t.me/Whois_Bot) | 查询 Whois 的 Telegram 机器人 |
+| 工具名                                       | 简介                                 |
+| -------------------------------------------- | ------------------------------------ |
+| [ICANN Lookup](https://lookup.icann.org/)    | 查询 Whois 的网站，由 ICANN 官方运营 |
+| [Telegram@Whois_Bot](https://t.me/Whois_Bot) | 查询 Whois 的 Telegram 机器人        |
 
 快照 & 缓存 & 存档
 ------------------
 
-| 工具名                                                | 简介                                                         |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Wayback Machine](https://web.archive.org/)           | 自动保存容易被抓取的网页，可以看到网站之前的面貌             |
-| [Archive.today](https://archive.is/)                  | 不会自动抓取网页，需要手动保存                               |
-| [Archivarix](https://archivarix.com/)                 | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
-| [IMGspider](https://wordpress.org/plugins/imgspider/) | 下载图片外链，并本地化                                       |
+| 工具名                                      | 简介                                                         |
+| ------------------------------------------- | ------------------------------------------------------------ |
+| [Wayback Machine](https://web.archive.org/) | 自动保存容易被抓取的网页，可以看到网站之前的面貌             |
+| [Archive.today](https://archive.is/)        | 不会自动抓取网页，需要手动保存                               |
+| [Archivarix](https://archivarix.com/)       | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
 
 WordPress插件
 -------------
@@ -42,6 +42,7 @@ WordPress插件
 | 工具名                                                                                                    | 简介                                                  |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | [Archivarix External Images Importer](https://wordpress.org/plugins/archivarix-external-images-importer/) | 自动从 archive.org 下载现无法访问的图片外链，并本地化 |
+| [IMGspider](https://wordpress.org/plugins/imgspider/)                                                     | 下载图片外链，并本地化                                |
 
 其他工具
 --------
