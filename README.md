@@ -30,20 +30,22 @@ Save The Web Project 所使用的工具列表
 快照 & 缓存 & 存档
 ------------------
 
-| 工具名                                      | 简介                                                         |
-| ------------------------------------------- | ------------------------------------------------------------ |
-| [Wayback Machine](https://web.archive.org/) | 自动保存容易被抓取的网页，可以看到网站之前的面貌             |
-| [Archive.today](https://archive.is/)        | 不会自动抓取网页，需要手动保存                               |
-| [Archivarix](https://archivarix.com/)       | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
-| [Web Archives](https://github.com/dessant/web-archives) | 快速检查网页快照的浏览器扩展 |
+| 工具名                                                          | 简介                                                         |
+| --------------------------------------------------------------- | ------------------------------------------------------------ |
+| [Wayback Machine](https://web.archive.org/)                     | 自动保存容易被抓取的网页，可以看到网站之前的面貌             |
+| [Archive.today](https://archive.is/)                            | 不会自动抓取网页，需要手动保存                               |
+| [Archivarix](https://archivarix.com/)                           | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
+| [dessant/web-archives](https://github.com/dessant/web-archives) | 快速检查网页快照的浏览器扩展                                 |
 
 WordPress插件
 -------------
 
-| 工具名                                                                                                    | 简介                                                  |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [Archivarix External Images Importer](https://wordpress.org/plugins/archivarix-external-images-importer/) | 自动从 archive.org 下载现无法访问的图片外链，并本地化 |
-| [IMGspider](https://wordpress.org/plugins/imgspider/)                                                     | 下载图片外链，并本地化(该插件有BUG，会出现重复下载、已本地化的外链重新“变回”外链的情况) |
+| 工具名                                                | 简介                                                                                    |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Archivarix External Images Importer][AEII]           | 自动从 archive.org 下载现无法访问的图片外链，并本地化                                   |
+| [IMGspider](https://wordpress.org/plugins/imgspider/) | 下载图片外链，并本地化(该插件有BUG，会出现重复下载、已本地化的外链重新“变回”外链的情况) |
+
+[AEII]: https://wordpress.org/plugins/archivarix-external-images-importer/
 
 其他工具
 --------
