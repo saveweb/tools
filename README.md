@@ -12,7 +12,7 @@ Save The Web Project 所使用的工具列表
 | ---------------------------------------------- | --------------------------------- |
 | [Ping.PE](https://ping.pe/)                    | 全球 Ping 检测                    |
 | [网站测速工具 boce.com](https://www.boce.com/) | 内地 wegt 检测                    |
-| [网站测速 17CE.COM](https://www.boce.com/)     | 内地 + 部分常见海外地区 wegt 检测 |
+| [网站测速 17CE.COM](https://www.17ce.com/)     | 内地 + 部分常见海外地区 wegt 检测 |
 
 ### RSS 订阅
 
