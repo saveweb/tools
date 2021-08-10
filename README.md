@@ -31,6 +31,8 @@ Save The Web Project 所使用的工具列表
 | [ICANN Lookup](https://lookup.icann.org/)    | 查询 Whois 的网站，由 ICANN 官方运营 |
 | [Telegram@Whois_Bot](https://t.me/Whois_Bot) | 查询 Whois 的 Telegram 机器人        |
 
+> 注意：部分域名注册商有防抢注的保护措施，会使whois的显示出来的到期时间看起来延后一年，但是实际上这个域名已被释放。注意甄别顶级域名解析到的ip是否属于whois中查询到的服务商所有，或直接在注册商处查询whois，以判定域名是否处于防抢注状态。
+
 快照 & 缓存 & 存档
 ------------------
 
