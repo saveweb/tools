@@ -39,9 +39,12 @@ Save The Web Project 所使用的工具列表
 | [Wayback Machine](https://web.archive.org/) | 自动保存容易被抓取的网页，可以看到网站之前的面貌             |
 | [Archive.today](https://archive.is/)        | 不会自动抓取网页，需要手动保存                               |
 | [Archivarix](https://archivarix.com/)       | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
+| [Wayback Machine Downloader][WMD]           | 基于 Ruby 从 Wayback Machine 下载网站内容的开源工具          |
 | [dessant/web-archives][dwa]                 | 快速检查网页快照的浏览器扩展                                 |
 
 [dwa]: https://github.com/dessant/web-archives
+
+[WMD]: https://github.com/hartator/wayback-machine-downloader
 
 WordPress插件
 -------------
