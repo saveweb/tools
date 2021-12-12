@@ -43,10 +43,15 @@ Save The Web Project 所使用的工具列表
 | [Archivarix](https://archivarix.com/)       | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
 | [Wayback Machine Downloader][WMD]           | 基于 Ruby 从 Wayback Machine 下载网站内容的开源工具          |
 | [dessant/web-archives][dwa]                 | 快速检查网页快照的浏览器扩展                                 |
+| [wabarc / wayback][w-w]                     | 功能强大的工具包，详细介绍需查看脚注[^w-w]                   |
 
 [dwa]: https://github.com/dessant/web-archives
 
 [WMD]: https://github.com/hartator/wayback-machine-downloader
+
+[w-w]: https://github.com/wabarc/wayback
+
+[^w-w]: 这是快照网页的工具包，可以快速的批量保存网页，全平台支持，如果想要简单使用，那么可以在 Telegram 私聊 @wabarc_bot 这个机器人。
 
 WordPress插件
 -------------
