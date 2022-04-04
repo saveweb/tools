@@ -39,15 +39,27 @@ Save The Web Project 所使用的工具列表
 | 工具名                                      | 简介                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ |
 | [Wayback Machine](https://web.archive.org/) | 自动保存容易被抓取的网页，可以看到网站之前的面貌             |
-| [Archive.today](https://archive.ph/)        | 不会自动抓取网页，需要手动保存                               |
+| [Archive.today](https://archive.ph/)[^AT]   | 不会自动抓取网页，需要手动保存                               |
 | [Archivarix](https://archivarix.com/)       | 基于 Wayback Machine 的数据恢复网站的工具，200个文件以下免费 |
 | [Wayback Machine Downloader][WMD]           | 基于 Ruby 从 Wayback Machine 下载网站内容的开源工具          |
 | [dessant/web-archives][dwa]                 | 快速检查网页快照的浏览器扩展                                 |
-| [wabarc / wayback][w-w]                     | 功能强大的工具包，详细介绍需查看脚注[^w-w]                   |
+| [wabarc/wayback][w-w]                       | 功能强大的工具包，详细介绍需查看脚注[^w-w]                   |
 
-[dwa]: https://github.com/dessant/web-archives
+[^AT]:
+    AT 的域名多变，如果无法访问常用的 `archive.is`，则可以访问 `Archive.today` 自动跳转到可能能够使用的域名。
+
+    以下是 Archive.today 曾使用过的域名：
+
+    +   `archive.is`
+    +   `archive.ph`
+    +   `archive.vn`
+    +   `archive.fo`
+
+    如果 IP 被 AT 封锁了，则可以使用洋葱域名： `http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/` 在 Tor 访问。
 
 [WMD]: https://github.com/hartator/wayback-machine-downloader
+
+[dwa]: https://github.com/dessant/web-archives
 
 [w-w]: https://github.com/wabarc/wayback
 
@@ -62,6 +74,7 @@ WordPress插件
 | [IMGspider][IMGs]                           | 下载图片外链，并本地化(该插件有BUG，会出现重复下载、已本地化的外链重新“变回”外链的情况) |
 
 [AEII]: https://wordpress.org/plugins/archivarix-external-images-importer/
+
 [IMGs]: https://wordpress.org/plugins/imgspider/
 
 其他工具
@@ -74,5 +87,7 @@ WordPress插件
 | [HTML Encode / HTML Decode - Savant Tools][HTML_ED] | 编码与解码 HTML 的转义字符 |
 
 [OM_URL]: https://savanttools.com/open-multiple-urls
+
 [URC_ED]: https://savanttools.com/url-decode
+
 [HTML_ED]: https://savanttools.com/html-encode
