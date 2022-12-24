@@ -44,6 +44,7 @@ Save The Web Project 所使用的工具列表
 | [Wayback Machine Downloader][WMD]           | 基于 Ruby 从 Wayback Machine 下载网站内容的开源工具          |
 | [dessant/web-archives][dwa]                 | 快速检查网页快照的浏览器扩展                                 |
 | [wabarc/wayback][w-w]                       | 功能强大的工具包，详细介绍需查看脚注[^w-w]                   |
+| [elsiehupp/wikiteam3][wiki3]                | wikiteam 用于备份 mediawiki 的工具包（这是python3版本）     |
 
 [^AT]:
     AT 的域名多变，如果无法访问常用的 `archive.is`，则可以访问 `Archive.today` 自动跳转到可能能够使用的域名。
@@ -64,6 +65,8 @@ Save The Web Project 所使用的工具列表
 [w-w]: https://github.com/wabarc/wayback
 
 [^w-w]: 这是快照网页的工具包，可以快速的批量保存网页，全平台支持，如果想要简单使用，那么可以在 Telegram 私聊 @wabarc_bot 这个机器人。
+
+[wiki3]: https://github.com/elsiehupp/wikiteam3
 
 WordPress插件
 -------------
