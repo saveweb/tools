@@ -46,6 +46,7 @@ Save The Web Project 所使用的工具列表
 | [wabarc/wayback][w-w]                       | 功能强大的工具包，详细介绍需查看脚注[^w-w]                   |
 | [mediawiki-client-tools/mediawiki-scraper][wiki3]                | 用于存档 mediawiki 的工具包（这是python3版本），saveweb 参与了开发。     |
 | [saveweb/dokuwiki-scraper][dokuwiki-scraper] | 用于存档 dokuwiki 的工具 |
+| 异丙醇/乙醇（酒精）、棉签、玻璃布                | 用于软盘开盘清洁 :D |
 
 [^AT]:
     AT 的域名多变，如果无法访问常用的 `archive.is`，则可以访问 `Archive.today` 自动跳转到可能能够使用的域名。
